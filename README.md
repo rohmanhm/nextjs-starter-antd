@@ -1,10 +1,11 @@
-# Nextjs Starter
+# Nextjs Starter with Ant Design
 
 ## More
 
 - [nextjs-starter](https://github.com/rohmanhm/nextjs-starter) - `The original template version`
 - [nextjs-starter-tailwind](https://github.com/rohmanhm/nextjs-starter-tailwind) - `Add tailwindcss support out of the box`
 - [nextjs-starter-chakra-ui](https://github.com/rohmanhm/nextjs-starter-chakra-ui) - `Add chakra-ui support out of the box`
+- [nextjs-starter-antd](git@github.com:rohmanhm/nextjs-starter-antd.git) - `Add Ant Design support out of the box`
 
 ## Why
 
